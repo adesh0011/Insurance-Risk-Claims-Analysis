@@ -73,7 +73,5 @@ Fraud Flag: Suspicious activity indicator
 7. Fraud Detection	Highlight customers with high claim frequency or unusual claim amounts.
 
 8. Report Publishing	Publish dashboard to Power BI Service and share with stakeholders.
-   
-10. Documentation	Prepare README, screenshots, and user guide for GitHub repository.
 
 
